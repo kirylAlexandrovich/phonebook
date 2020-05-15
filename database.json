@@ -1,0 +1,10 @@
+{
+  "development": {
+    "driver": "mysql",
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "database": "phone_book",
+    "multipleStatements": true
+  }
+}
